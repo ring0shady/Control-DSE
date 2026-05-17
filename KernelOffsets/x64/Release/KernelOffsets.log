@@ -1,0 +1,26 @@
+﻿  FileUtils.cpp
+  HttpClient.cpp
+  main.cpp
+  ntoskrnlOffsets.cpp
+G:\CETP\Altered Security - Certified Evasion Techniques Professional (CETP)\CETP Projects\Module 6 - Road to Kernel\RTCoreDSE\KernelOffsets\ntoskrnlOffsets.cpp(163,12): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'LPTSTR'
+      G:\CETP\Altered Security - Certified Evasion Techniques Professional (CETP)\CETP Projects\Module 6 - Road to Kernel\RTCoreDSE\KernelOffsets\ntoskrnlOffsets.cpp(163,12):
+      consider using '%ls' in the format string
+      G:\CETP\Altered Security - Certified Evasion Techniques Professional (CETP)\CETP Projects\Module 6 - Road to Kernel\RTCoreDSE\KernelOffsets\ntoskrnlOffsets.cpp(163,12):
+      consider using '%lls' in the format string
+      G:\CETP\Altered Security - Certified Evasion Techniques Professional (CETP)\CETP Projects\Module 6 - Road to Kernel\RTCoreDSE\KernelOffsets\ntoskrnlOffsets.cpp(163,12):
+      consider using '%Ls' in the format string
+      G:\CETP\Altered Security - Certified Evasion Techniques Professional (CETP)\CETP Projects\Module 6 - Road to Kernel\RTCoreDSE\KernelOffsets\ntoskrnlOffsets.cpp(163,12):
+      consider using '%ws' in the format string
+  
+G:\CETP\Altered Security - Certified Evasion Techniques Professional (CETP)\CETP Projects\Module 6 - Road to Kernel\RTCoreDSE\KernelOffsets\ntoskrnlOffsets.cpp(249,52): warning C4244: 'return': conversion from 'DWORD' to 'BYTE', possible loss of data
+G:\CETP\Altered Security - Certified Evasion Techniques Professional (CETP)\CETP Projects\Module 6 - Road to Kernel\RTCoreDSE\KernelOffsets\ntoskrnlOffsets.cpp(392,12): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'DWORD64'
+G:\CETP\Altered Security - Certified Evasion Techniques Professional (CETP)\CETP Projects\Module 6 - Road to Kernel\RTCoreDSE\KernelOffsets\ntoskrnlOffsets.cpp(393,12): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'DWORD64'
+  PdbParser.cpp
+  PdbSymbols.cpp
+  PEParser.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+G:\CETP\Altered Security - Certified Evasion Techniques Professional (CETP)\CETP Projects\Module 6 - Road to Kernel\RTCoreDSE\KernelOffsets\ntoskrnlOffsets.cpp(441): warning C4715: 'disableDSE': not all control paths return a value
+  All 40 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  KernelOffsets.vcxproj -> G:\CETP\Altered Security - Certified Evasion Techniques Professional (CETP)\CETP Projects\Module 6 - Road to Kernel\RTCoreDSE\x64\Release\KernelOffsets.exe
