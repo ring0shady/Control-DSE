@@ -1,17 +1,4 @@
-/*
- * -----------------------------------------------------------
- * This code is part of the Evasion Lab for the
- * Certified Evasion Techniques Professional (CETP) course
- * by Altered Security.
- *
- * Copyright (c) 2025 Altered Security. All rights reserved.
- *
- * This code is provided solely for educational purposes.
- * Unauthorized use, duplication, or distribution of this
- * code is strictly prohibited without explicit permission
- * from Altered Security.
- * -----------------------------------------------------------
- */
+
 
 #include <Windows.h>
 #include <stdio.h>
